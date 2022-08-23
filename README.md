@@ -6,8 +6,20 @@
 
 ## Para testar o app localmente, siga os seguintes passos:
 
-- Clonar o respositório (git clone)
-- Instalar as dependências do projeto (yarn)
-- Executar a fake API com json-server (yarn server)
-- Executar o app (yarn start)
+- Clonar o respositório
+  ```bash
+  git clone https://github.com/matosgabriel/ignite-reactjs-desafio02.git
+  ```
+- Instalar as dependências do projeto
+  ```bash
+  yarn install
+  ```
+- Executar a fake API com json-server
+  ```bash
+  yarn server
+  ```
+- Executar o app
+  ```bash
+  yarn start
+  ```
 - Acessar o app via navegador no endereço http://localhost:3000
