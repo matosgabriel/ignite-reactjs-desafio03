@@ -8,7 +8,7 @@
 
 - Clonar o respositório
   ```bash
-  git clone https://github.com/matosgabriel/ignite-reactjs-desafio02.git
+  git clone https://github.com/matosgabriel/ignite-reactjs-desafio03.git
   ```
 - Instalar as dependências do projeto
   ```bash
